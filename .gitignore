@@ -1,8 +1,14 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 node_modules/
 =======
+=======
+>>>>>>> 5e42829c2c27beb5b5965e7b39b05290b6de8205
 node_modules
 dist
 .env
 .DS_Store
+<<<<<<< HEAD
+>>>>>>> 5e42829c2c27beb5b5965e7b39b05290b6de8205
+=======
 >>>>>>> 5e42829c2c27beb5b5965e7b39b05290b6de8205
